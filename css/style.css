@@ -1,0 +1,31 @@
+.honda-bg-secondary{
+    color: white;
+    background-color: #264653;
+}
+.honda-btn-primary{
+    width: 168px;
+    height: 44px;
+    color: white;
+    background-color: #E76F51;
+}
+.honda-text-danger{
+    color: #E76F51;
+}
+h1{
+    font-size: 14px;
+}
+h2{
+    font-size: 48px;
+}
+.about{
+    color: #E0E0E0;
+}
+.gray-bike img{
+    filter: grayscale(100%);
+}
+.filled{
+    color: #E77C40;
+}
+.emty{
+    color: #E77C40;
+}
