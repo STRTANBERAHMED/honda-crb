@@ -11,6 +11,10 @@
 .honda-text-danger{
     color: #E76F51;
 }
+.honda-bg-info{
+    height: 300px;
+    background-color: silver;
+}
 h1{
     font-size: 14px;
 }
